@@ -8,7 +8,7 @@ import argparse
 import os
 
 
-def run_inference(model_path, source, save_dir="runs/predict", conf=0.25, show=False):
+def run_inference(model_path, source, save_dir="D:/Academics/Research/double-line/runs/predict", conf=0.25, show=False):
     """
     Run inference using a trained YOLOv8 model.
     
